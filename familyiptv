@@ -31,6 +31,8 @@ http://nayeem-parvez.serveirc.com:9090/play/a02h/index.m3u8
 http://nayeem-parvez.serveirc.com:9090/play/a02g/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T20 WC" tvg-logo="https://static.toiimg.com/thumb/msid-85450736,imgsize-114582,width-400,resizemode-4/85450736.jpg" group-title="T20 WC",T20 WC
 http://10.16.100.207:8082/sports/GaZitV_1stOp.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T20 WC" tvg-logo="https://static.toiimg.com/thumb/msid-85450736,imgsize-114582,width-400,resizemode-4/85450736.jpg" group-title="T20 WC",T20 WC
+http://10.16.100.245/hindi/Tsport$local.m3u8
 
 
 
@@ -50,6 +52,11 @@ http://103.166.253.222:80/hls/stersports1hd.m3u8
 http://103.149.130.122:8089/1/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T20 WC" tvg-logo="https://static.toiimg.com/thumb/msid-85450736,imgsize-114582,width-400,resizemode-4/85450736.jpg" group-title="T20 WC",T20 WC
 http://103.149.130.122:8089/102/index.m3u8
+
+
+
+                                
+
 
 
 
