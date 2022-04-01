@@ -4,6 +4,8 @@
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T20 WC" tvg-logo="https://static.toiimg.com/thumb/msid-85450736,imgsize-114582,width-400,resizemode-4/85450736.jpg" group-title="T20 WC",T20 WC
 http://103.55.144.46/hls/Gazi-TV.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T20 WC" tvg-logo="https://static.toiimg.com/thumb/msid-85450736,imgsize-114582,width-400,resizemode-4/85450736.jpg" group-title="T20 WC",T20 WC
+http://acdn.bdixsports.live:1935/live/event.stream/chunklist_w2107433652_tkYmRpeHNwb3J0c3Rva2VuZW5kdGltZT0xNjQ4ODAyNjIwJmJkaXhzcG9ydHN0b2tlbnN0YXJ0dGltZT0xNjQ4Nzk1NjIwJmJkaXhzcG9ydHN0b2tlbmhhc2g9OTFzNnVST3hHM1dVVEd1eHV2WDVvMDl1clBfTU5Nei1TSTVSMkVKRlR3az0=.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T20 WC" tvg-logo="https://static.toiimg.com/thumb/msid-85450736,imgsize-114582,width-400,resizemode-4/85450736.jpg" group-title="T20 WC",T20 WC
 http://stream.dhakaflix.com:8081/live/mystream/main/mystream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T20 WC" tvg-logo="https://static.toiimg.com/thumb/msid-85450736,imgsize-114582,width-400,resizemode-4/85450736.jpg" group-title="T20 WC",T20 WC
 https://diokz91u21fy1.cloudfront.net/iplch1/2022/master/720/chunklist.m3u8
