@@ -4,11 +4,7 @@
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T20 WC" tvg-logo="https://static.toiimg.com/thumb/msid-85450736,imgsize-114582,width-400,resizemode-4/85450736.jpg" group-title="T20 WC",T20 WC
 http://103.55.144.46/hls/Gazi-TV.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T20 WC" tvg-logo="https://static.toiimg.com/thumb/msid-85450736,imgsize-114582,width-400,resizemode-4/85450736.jpg" group-title="T20 WC",T20 WC
-http://acdn.bdixsports.live:1935/live/event.stream/chunklist_w243861362_tkYmRpeHNwb3J0c3Rva2VuZW5kdGltZT0xNjQ4ODIxMjgwJmJkaXhzcG9ydHN0b2tlbnN0YXJ0dGltZT0xNjQ4ODE0MjgwJmJkaXhzcG9ydHN0b2tlbmhhc2g9X3EycjAtenRRamVVR1JCUDhiOGhoaVBvLXduNWxnVHdfNjFZMU9iVmNZYz0=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T20 WC" tvg-logo="https://static.toiimg.com/thumb/msid-85450736,imgsize-114582,width-400,resizemode-4/85450736.jpg" group-title="T20 WC",T20 WC
-https://diokz91u21fy1.cloudfront.net/iplch1/2022/master/720/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T20 WC" tvg-logo="https://static.toiimg.com/thumb/msid-85450736,imgsize-114582,width-400,resizemode-4/85450736.jpg" group-title="T20 WC",T20 WC
-https://king.nowtv.vip/live/sscricket/chunks.m3u8
+http://acdn.bdixsports.live:1935/live/event.stream/chunklist_w480371933_tkYmRpeHNwb3J0c3Rva2VuZW5kdGltZT0xNjQ4ODMxNjYwJmJkaXhzcG9ydHN0b2tlbnN0YXJ0dGltZT0xNjQ4ODI0NjYwJmJkaXhzcG9ydHN0b2tlbmhhc2g9dHMxUWo5U0JUdWFNYWtLT01wdXNrejUzazJHYmdKcjFyT2NRR3diaG04bz0=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T20 WC" tvg-logo="https://static.toiimg.com/thumb/msid-85450736,imgsize-114582,width-400,resizemode-4/85450736.jpg" group-title="T20 WC",T20 WC
 http://10.16.100.207:8082/sports/GaZitV_1stOp.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T20 WC" tvg-logo="https://static.toiimg.com/thumb/msid-85450736,imgsize-114582,width-400,resizemode-4/85450736.jpg" group-title="T20 WC",T20 WC
@@ -29,6 +25,8 @@ http://10.16.100.245/hindi/Tsport$local.m3u8
 
 
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T20 WC" tvg-logo="https://static.toiimg.com/thumb/msid-85450736,imgsize-114582,width-400,resizemode-4/85450736.jpg" group-title="T20 WC",T20 WC
+https://king.nowtv.vip/live/sscricket/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T20 WC" tvg-logo="https://static.toiimg.com/thumb/msid-85450736,imgsize-114582,width-400,resizemode-4/85450736.jpg" group-title="T20 WC",T20 WC
 https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T20 WC" tvg-logo="https://static.toiimg.com/thumb/msid-85450736,imgsize-114582,width-400,resizemode-4/85450736.jpg" group-title="T20 WC",T20 WC
