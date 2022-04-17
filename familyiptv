@@ -9,26 +9,6 @@ http://103.55.144.46/hls/t-sports.m3u8
 http://acdn.bdixsports.live:1935/live/event.stream/chunklist_w724120633_tkYmRpeHNwb3J0c3Rva2VuZW5kdGltZT0xNjUwMjE4NTAwJmJkaXhzcG9ydHN0b2tlbnN0YXJ0dGltZT0xNjUwMjExNTAwJmJkaXhzcG9ydHN0b2tlbmhhc2g9dW9IWEJ5VS16cU5DWXp5R3JMUFhKLUE4dl9idmZLSXZtRUFRMktWeFlJTT0=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T20 WC" tvg-logo="https://static.toiimg.com/thumb/msid-85450736,imgsize-114582,width-400,resizemode-4/85450736.jpg" group-title="T20 WC",T20 WC
 http://125.209.88.166:45793/BRN/beINSP13.stream/playlist.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T20 WC" tvg-logo="https://static.toiimg.com/thumb/msid-85450736,imgsize-114582,width-400,resizemode-4/85450736.jpg" group-title="T20 WC",T20 WC
-http://31.172.87.31:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/tracks-v1a1/mono.m3u8?token=RED_ydZyKTSW5cq5YqQKAI5GfQ%3D%3D%2C1650232274.9659699029%7CUser-agent=REDLINECLIENT
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T20 WC" tvg-logo="https://static.toiimg.com/thumb/msid-85450736,imgsize-114582,width-400,resizemode-4/85450736.jpg" group-title="T20 WC",T20 WC
 http://stream.dhakaflix.com:8081/live/mystream/main/mystream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T20 WC" tvg-logo="https://static.toiimg.com/thumb/msid-85450736,imgsize-114582,width-400,resizemode-4/85450736.jpg" group-title="T20 WC",T20 WC
