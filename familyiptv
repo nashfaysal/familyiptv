@@ -2,15 +2,11 @@
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T20 WC" tvg-logo="https://static.toiimg.com/thumb/msid-85450736,imgsize-114582,width-400,resizemode-4/85450736.jpg" group-title="T20 WC",T20 WC
-http://208.86.19.13:81/905.stream/index.m3u8
-
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T20 WC" tvg-logo="https://static.toiimg.com/thumb/msid-85450736,imgsize-114582,width-400,resizemode-4/85450736.jpg" group-title="T20 WC",T20 WC
 http://103.55.144.46/hls/Gazi-TV.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T20 WC" tvg-logo="https://static.toiimg.com/thumb/msid-85450736,imgsize-114582,width-400,resizemode-4/85450736.jpg" group-title="T20 WC",T20 WC
 http://103.55.144.46/hls/t-sports.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T20 WC" tvg-logo="https://static.toiimg.com/thumb/msid-85450736,imgsize-114582,width-400,resizemode-4/85450736.jpg" group-title="T20 WC",T20 WC
-http://acdn.bdixsports.live:1935/live/event.stream/chunklist_w1493310933_tkYmRpeHNwb3J0c3Rva2VuZW5kdGltZT0xNjUwNTU3OTgwJmJkaXhzcG9ydHN0b2tlbnN0YXJ0dGltZT0xNjUwNTUwOTgwJmJkaXhzcG9ydHN0b2tlbmhhc2g9U3pPOEtDVjV2emJfblM0cUlpVjhtdTRsX04tc0tjWndrak1iUUdDX1ZoND0=.m3u8
+http://acdn.bdixsports.live:1935/live/event.stream/chunklist_w1348484363_tkYmRpeHNwb3J0c3Rva2VuZW5kdGltZT0xNjUwNjQ2MDAwJmJkaXhzcG9ydHN0b2tlbnN0YXJ0dGltZT0xNjUwNjM5MDAwJmJkaXhzcG9ydHN0b2tlbmhhc2g9cmpSYTFlX2xPTXBDWkVaNGVRZWFzdjRDZDZRTXgwckZJWGRiaTYzaVN4dz0=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T20 WC" tvg-logo="https://static.toiimg.com/thumb/msid-85450736,imgsize-114582,width-400,resizemode-4/85450736.jpg" group-title="T20 WC",T20 WC
 http://103.55.144.46/hls/stersports1hd.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T20 WC" tvg-logo="https://static.toiimg.com/thumb/msid-85450736,imgsize-114582,width-400,resizemode-4/85450736.jpg" group-title="T20 WC",T20 WC
