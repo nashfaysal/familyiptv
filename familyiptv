@@ -3,17 +3,12 @@
 
 
 
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T20 WC" tvg-logo="https://static.toiimg.com/thumb/msid-85450736,imgsize-114582,width-400,resizemode-4/85450736.jpg" group-title="T20 WC",T20 WC
-http://31.172.87.31:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/tracks-v1a1/mono.m3u8?token=RED_LOBdGXDmtDUkphpdxHuU3A%3D%3D%2C1650433641.9659699029=|User-agent=REDLINECLIENT
-
-
-
+http://10.16.100.207:8082/sports/starsp0rt$1oneHD.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T20 WC" tvg-logo="https://static.toiimg.com/thumb/msid-85450736,imgsize-114582,width-400,resizemode-4/85450736.jpg" group-title="T20 WC",T20 WC
+http://10.16.100.207:8082/sports/ssselecthd1one.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T20 WC" tvg-logo="https://static.toiimg.com/thumb/msid-85450736,imgsize-114582,width-400,resizemode-4/85450736.jpg" group-title="T20 WC",T20 WC
+http://208.86.19.13:81/707.stream/index.m3u8
 
 
 
@@ -34,13 +29,11 @@ http://stream.dhakaflix.com:8081/live/mystream/main/mystream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T20 WC" tvg-logo="https://static.toiimg.com/thumb/msid-85450736,imgsize-114582,width-400,resizemode-4/85450736.jpg" group-title="T20 WC",T20 WC
 http://10.16.100.207:8082/sports/GaZitV_1stOp.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T20 WC" tvg-logo="https://static.toiimg.com/thumb/msid-85450736,imgsize-114582,width-400,resizemode-4/85450736.jpg" group-title="T20 WC",T20 WC
-http://10.16.100.207:8082/sports/starsp0rt$1oneHD.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T20 WC" tvg-logo="https://static.toiimg.com/thumb/msid-85450736,imgsize-114582,width-400,resizemode-4/85450736.jpg" group-title="T20 WC",T20 WC
-http://10.16.100.207:8082/sports/ssselecthd1one.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T20 WC" tvg-logo="https://static.toiimg.com/thumb/msid-85450736,imgsize-114582,width-400,resizemode-4/85450736.jpg" group-title="T20 WC",T20 WC
 http://10.16.100.203:8082/bangla/t$ports_1$top.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T20 WC" tvg-logo="https://static.toiimg.com/thumb/msid-85450736,imgsize-114582,width-400,resizemode-4/85450736.jpg" group-title="T20 WC",T20 WC
 http://10.16.100.245/hindi/Tsport$local.m3u8
+
+
 
 
 
