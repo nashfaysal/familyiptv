@@ -341,7 +341,7 @@ http://otv.ftpbd.net/streams/107/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla" tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="KOLKATA",Zee Bangla
 http://tvserver3.roarzone.info:25461/live/free/roarzone/34.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla HD" tvg-logo="https://dl.dropbox.com/s/u1xd3dqynarcm3w/ZBHD.jpg" group-title="KOLKATA",Zee Bangla HD
-http://103.81.104.118/hls/stream30.m3u8
+http://103.55.144.46/hls/zeebanglahd.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla HD" tvg-logo="https://dl.dropbox.com/s/u1xd3dqynarcm3w/ZBHD.jpg" group-title="KOLKATA",Zee Bangla HD
 http://hitectv.live/hls/stream30.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla HD" tvg-logo="https://dl.dropbox.com/s/u1xd3dqynarcm3w/ZBHD.jpg" group-title="KOLKATA",Zee Bangla HD
@@ -365,7 +365,7 @@ http://103.205.133.40/hls/colorsbangla.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors Bangla" tvg-logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424040/71120721.jpg" group-title="KOLKATA",Colors Bangla
 http://103.205.133.20/hls/etvbangla.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors Bangla HD" tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_10000000042770000/ic_logo_Colors_Bangla_HD_WB.png" group-title="KOLKATA",Colors Bangla HD
-http://103.81.104.118/hls/stream28.m3u8
+http://103.55.144.46/hls/colorsbangla.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors Bangla HD" tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_10000000042770000/ic_logo_Colors_Bangla_HD_WB.png" group-title="KOLKATA",Colors Bangla HD
 http://hitectv.live/hls/stream28.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors Bangla HD" tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_10000000042770000/ic_logo_Colors_Bangla_HD_WB.png" group-title="KOLKATA",Colors Bangla HD
@@ -375,7 +375,7 @@ http://103.109.56.116/live/skyfeed1012/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="KOLKATA",Star Jalsha
 http://103.205.133.21/hls/chsj.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="KOLKATA",Star Jalsha HD
-http://103.81.104.118/hls/stream31.m3u8
+http://103.55.144.46/hls/starjalsha.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="KOLKATA",Star Jalsha HD
 http://172.27.27.3:8081/local/Star_Jalsha/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="KOLKATA",Star Jalsha HD
@@ -471,7 +471,7 @@ http://cv.khushitv.xyz/channels.php?c=zzestsd&e=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Zest HD" tvg-logo="https://akamaividz.zee5.com/resources/0-9-348/list/270x152/1170x658_2132680991.jpg" group-title="Infotainment",Zee Zest HD
 http://cv.khushitv.xyz/channels.php?c=zzesthd&e=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Bangla" tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Infotainment",Discovery Bangla
-http://103.81.104.118/hls/stream9.m3u8
+http://103.55.144.46/hls/discovery.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Bangla" tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Infotainment",Discovery Bangla
 http://103.153.175.254:8080/hls/stream9.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Bangla" tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Infotainment",Discovery Bangla
@@ -491,7 +491,7 @@ http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13009&key=84797b799ae18d1b
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/DiscoveryChannel%28India%29Logo.png/220px-DiscoveryChannel%28India%29Logo.png" group-title="Infotainment",Discovery Science
 http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13010&key=84797b799ae18d1b
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Travelxp HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Txphd_logo_2015.png/220px-Txphd_logo_2015.png" group-title="Infotainment",Travelxp HD
-http://103.81.104.118/hls/stream37.m3u8
+http://103.55.144.46/hls/travelxp.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Travelxp HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Txphd_logo_2015.png/220px-Txphd_logo_2015.png" group-title="Infotainment",Travelxp HD
 https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Travelxp HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Txphd_logo_2015.png/220px-Txphd_logo_2015.png" group-title="Infotainment",Travelxp HD
@@ -523,7 +523,7 @@ https://itvorigin.multitvsolution.com/idvo/tlceng.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC ENGLISH HD" tvg-logo="https://i.imgur.com/iXwGMoe.png" group-title="Infotainment",TLC ENGLISH HD
 http://172.20.1.1:8081/live/tlc-45/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANIMAL PLANET English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="Infotainment",ANIMAL PLANET English
-http://103.81.104.118/hls/stream6.m3u8
+ttp://103.55.144.46/hls/animalplanent.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANIMAL PLANET English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="Infotainment",ANIMAL PLANET English
 http://103.153.175.254:8080/hls/stream6.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ANIMAL PLANET Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="Infotainment",ANIMAL PLANET Hindi
