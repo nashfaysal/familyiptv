@@ -2,9 +2,9 @@
 
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fifa WC 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWbTGLRDstIi7HZ8_9vnSXphYfIzGCAEnEKA&usqp=CAU" group-title="Fifa WC 2022",Fifa WC 2022
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fifa WC 1" tvg-logo="https://images-thedailystar-net.cdn.ampproject.org/i/s/images.thedailystar.net/sites/default/files/images/2022/04/02/maxresdefault_2.jpg" group-title="Fifa WC 2022",Fifa WC 2022
 http://103.78.255.178:8080/gtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fifa WC 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWbTGLRDstIi7HZ8_9vnSXphYfIzGCAEnEKA&usqp=CAU" group-title="Fifa WC 2022",Fifa WC 2022
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fifa WC 2" tvg-logo="https://images-thedailystar-net.cdn.ampproject.org/i/s/images.thedailystar.net/sites/default/files/images/2022/04/02/maxresdefault_2.jpg" group-title="Fifa WC 2022",Fifa WC 2022
 http://103.78.255.178:8080/starselect1/tracks-v1a1/mono.m3u8
 
 
