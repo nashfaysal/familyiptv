@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fifa WC" tvg-logo="https://images-thedailystar-net.cdn.ampproject.org/i/s/images.thedailystar.net/sites/default/files/images/2022/04/02/maxresdefault_2.jpg" group-title="Fifa WC",Fifa WC
-https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/ghNdSfYOZHvJUoWGxM9XNXaR4lVGyi87V7_U6v4geu-xu_XbUCLtyd07u_t1upriC4GUgHAwnRhxQj0RMTrMUw/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/tw_master_dynamic_highlatency.m3u8?type=live
+http://172.16.50.2:8082/Gazi-Tv/tracks-v1a1/mono.m3u8?token=7dd9fdf94657a8604b92780db37fcdac5e2dc05c-7adc6196110fe727a81751887931e4ae-1669302309-1669291509
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fifa WC" tvg-logo="https://images-thedailystar-net.cdn.ampproject.org/i/s/images.thedailystar.net/sites/default/files/images/2022/04/02/maxresdefault_2.jpg" group-title="Fifa WC",Fifa WC
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fifa WC" tvg-logo="https://images-thedailystar-net.cdn.ampproject.org/i/s/images.thedailystar.net/sites/default/files/images/2022/04/02/maxresdefault_2.jpg" group-title="Fifa WC",Fifa WC
