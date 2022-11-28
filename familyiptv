@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fifa WC" tvg-logo="https://images-thedailystar-net.cdn.ampproject.org/i/s/images.thedailystar.net/sites/default/files/images/2022/04/02/maxresdefault_2.jpg" group-title="Fifa WC",Fifa WC
-http://tv2.efiberbd.net:8080/live/mkaua/stream/1.m3u8
+https://talgach.xyz/FWC-Join:@fifaxlive.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fifa WC" tvg-logo="https://images-thedailystar-net.cdn.ampproject.org/i/s/images.thedailystar.net/sites/default/files/images/2022/04/02/maxresdefault_2.jpg" group-title="Fifa WC",Fifa WC
 http://172.16.50.2:8082/Gazi-Tv/tracks-v1a1/mono.m3u8?token=68aad018e1cf07bf778420371183cd64084caa9f-8031621087be9c52c5132780da0e2fb3-1669655017-1669644217
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fifa WC" tvg-logo="https://images-thedailystar-net.cdn.ampproject.org/i/s/images.thedailystar.net/sites/default/files/images/2022/04/02/maxresdefault_2.jpg" group-title="Fifa WC",Fifa WC
@@ -18,7 +18,7 @@ http://tv2.efiberbd.net:8080/live/mkaua/stream/2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fifa WC" tvg-logo="https://images-thedailystar-net.cdn.ampproject.org/i/s/images.thedailystar.net/sites/default/files/images/2022/04/02/maxresdefault_2.jpg" group-title="Fifa WC",Fifa WC
 http://tv2.efiberbd.net:8080/live/mkaua/stream/3.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fifa WC" tvg-logo="https://images-thedailystar-net.cdn.ampproject.org/i/s/images.thedailystar.net/sites/default/files/images/2022/04/02/maxresdefault_2.jpg" group-title="Fifa WC",Fifa WC
-https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
+https://talgach.xyz/FWC4-Join:@fifaxlive.m3u8
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T20 WC" tvg-logo="https://static.toiimg.com/thumb/msid-85450736,imgsize-114582,width-400,resizemode-4/85450736.jpg" group-title="T20 WC",T20 WC
