@@ -1,6 +1,55 @@
 #EXTM3U url-tvg=""
 
 
+#EXTINF:-1,English IPL
+https://prod-sports-hin-gm.jiocinema.com/hls/live/2099000/uhd_akamai_ctv_avc_eng_ipl08/master.m3u8
+#EXTINF:-1,Bangla IPL
+https://prod-sports-hin-gm.jiocinema.com/hls/live/2099022/uhd_akamai_ctv_avc_ben_ipl08/master.m3u8
+#EXTINF:-1 ,IPL-GTV
+http://bcdn.bdixsports.live:1935/live/event.stream/.m3u8
+#EXTINF:-1 ,Gazi TV
+http://appsbiswas.live:8880/live/20320520/40320520/153.m3u8
+#EXTINF:-1 ,Star Sports 1 HD HI
+http://appsbiswas.live:8880/live/20320520/40320520/13.m3u8
+#EXTINF:-1 ,T Sports with AD
+https://live.tsports.com/live/live_01_720/index.m3u8
+#EXTINF:-1 ,T Sports with AD 2
+https://live.tsports.com/live/live_01_480/index.m3u8
+#EXTINF:-1 ,T Sports
+http://appsbiswas.live:8880/live/20320520/40320520/2952.m3u8
+#EXTINF:-1 ,Super Cricket DSTV
+http://appsbiswas.live:8880/live/20320520/40320520/19.m3u8
+#EXTINF:-1 ,Astro Cricket
+http://appsbiswas.live:8880/live/20320520/40320520/3207.m3u8
+#EXTINF:-1 ,Sky Sports Cricket
+http://appsbiswas.live:8880/live/20320520/40320520/30.m3u8
+#EXTINF:-1 ,Fox Sports 501
+http://appsbiswas.live:8880/live/20320520/40320520/6852.m3u8
+#EXTINF:-1 ,Star sports 1 Live
+http://appsbiswas.live:8880/live/20320520/40320520/6541.m3u8
+#EXTINF:-1 ,Live Sports Star
+http://appsbiswas.live:8880/live/20320520/40320520/51.m3u8
+#EXTINF:-1,Star sports 1 Live
+http://appsbiswas.live:8880/live/20320520/40320520/6541.m3u8
+#EXTINF:-1,Live Sports IPL x
+http://appsbiswas.live:8880/live/20320520/40320520/6547.m3u8
+#EXTINF:-1,STAR GOLD
+http://180.178.188.152:8000/play/a012
+#EXTINF:-1,Live Sports 13IPL Live
+http://iptv.kitv.live:1935/live/Shari/MTV-P/53.m3u8
+#EXTINF:-1,IPL Live
+http://iptv.kitv.live:1935/live/Shari/MTV-P/51.m3u8
+#EXTINF:-1,IPL Live
+http://212.47.252.54/hls/stream.m3u8
+#EXTINF:-1,Live Sports 23
+https://d3j7ofexbkp7q4.cloudfront.net:443/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/../../../manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/ab472ec7-025f-47ad-b7b6-1a1482665dda/3.m3u8
+#EXTINF:-1,Astro Cricket
+http://208.86.19.13:81/720.stream/index.m3u8
+#EXTINF:-1,STAR SPORTS SELECT
+http://180.178.188.152:8000/play/a018
+
+
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fifa WC" tvg-logo="https://images-thedailystar-net.cdn.ampproject.org/i/s/images.thedailystar.net/sites/default/files/images/2022/04/02/maxresdefault_2.jpg" group-title="Fifa WC",Fifa WC
 http://103.76.243.139:8000/live/gazitvhd1/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fifa WC" tvg-logo="https://images-thedailystar-net.cdn.ampproject.org/i/s/images.thedailystar.net/sites/default/files/images/2022/04/02/maxresdefault_2.jpg" group-title="Fifa WC",Fifa WC
