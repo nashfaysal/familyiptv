@@ -6,7 +6,7 @@ https://prod-sports-eng-gm.jiocinema.com/hls/live/2100299/hd_akamai_androidmob_a
 #EXTINF:-1,Bangla IPL
 https://prod-sports-north-gm.jiocinema.com/hls/live/2099023/hd_akamai_androidmob_avc_ben_ipl19/master.m3u8
 #EXTINF:-1 ,IPL-GTV
-http://bcdn.bdixsports.live:1935/live/event.stream/.m3u8
+http://bcdn.bdixsports.live:1935/live/event.stream.m3u8
 #EXTINF:-1 ,Gazi TV
 http://appsbiswas.live:8880/live/20320520/40320520/153.m3u8
 #EXTINF:-1 ,Star Sports 1 HD HI
