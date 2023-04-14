@@ -2,9 +2,9 @@
 
 
 #EXTINF:-1,English IPL
-https://prod-sports-hin-gm.jiocinema.com/hls/live/2099000/uhd_akamai_ctv_avc_eng_ipl08/master.m3u8
+https://prod-sports-eng-gm.jiocinema.com/hls/live/2100299/hd_akamai_androidmob_avc_eng_ipl19/maste.m3u8
 #EXTINF:-1,Bangla IPL
-https://prod-sports-hin-gm.jiocinema.com/hls/live/2099022/uhd_akamai_ctv_avc_ben_ipl08/master.m3u8
+hhttps://prod-sports-north-gm.jiocinema.com/hls/live/2099023/hd_akamai_androidmob_avc_ben_ipl19/master_1080p.m3u
 #EXTINF:-1 ,IPL-GTV
 http://bcdn.bdixsports.live:1935/live/event.stream/.m3u8
 #EXTINF:-1 ,Gazi TV
